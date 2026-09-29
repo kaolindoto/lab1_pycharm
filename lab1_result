@@ -1,0 +1,14 @@
+{
+    "system": "Windows-11-10.0.26200-SP0",
+    "os_family": "Windows",
+    "release": "11",
+    "version": "10.0.26200",
+    "processor": "AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD",
+    "machine": "AMD64",
+    "architecture_bits": "64bit",
+    "hostname": "kaolin",
+    "username": "bkmz2",
+    "python_version": "3.14.5",
+    "interpreter_path": "C:\\Users\\bkmz2\\PycharmProjects\\WelcomeScreen\\.venv\\Scripts\\python.exe",
+    "cpu_count": 32
+}
